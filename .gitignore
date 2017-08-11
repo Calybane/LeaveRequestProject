@@ -1,1 +1,8 @@
-# Created by .ignore support plugin (hsz.mobi)
+.settings/
+.project
+*.iml
+.idea/
+target/
+node_modules/
+npm-debug.log
+@project.build.directory@
